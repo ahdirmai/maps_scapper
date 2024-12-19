@@ -25,8 +25,8 @@ This tool helps you gather business data from Google Places and send bulk WhatsA
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/business-tools.git`
-2. Navigate to the project directory: `cd business-tools`
+1. Clone the repository: `git clone https://github.com/your-username/maps_scapper.git`
+2. Navigate to the project directory: `cd maps_scapper`
 3. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
